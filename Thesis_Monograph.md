@@ -1,7 +1,7 @@
-// ====================================================================
-// THEORETICAL MONOGRAPH MATRIX // LIMITLESS KREATIONZ RESEARCH LABS
-// DOCUMENT ID: LK-PHYS-2026-V2 // COMPATIBILITY MODE: STRICT CLEANSE
-// ====================================================================
+====================================================================
+ THEORETICAL MONOGRAPH MATRIX // LIMITLESS KREATIONZ RESEARCH LABS
+ DOCUMENT ID: LK-PHYS-2026-V2 // COMPATIBILITY MODE: STRICT CLEANSE
+====================================================================
 
 # THE QUANTUM MECHANICS OF MENTAL IMPRESSION
 ## A Unified Field Theory on Cognitive Mass, Internal Projection, and Environmental Dissipation
